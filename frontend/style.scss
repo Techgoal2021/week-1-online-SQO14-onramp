@@ -1,0 +1,16 @@
+.container{
+
+    .hero-section{
+        .inner{
+            .open{
+                background: rgb(215,245,245);
+                height: 300px;
+                display: flex;
+                justify-content: center;
+                p{
+                    color: red;
+                }
+            }
+        }
+    }
+}
